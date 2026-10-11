@@ -113,31 +113,7 @@ print(f"Your BMI is: {bmi:.2f}")
 ```
 
 > Height must be entered in **meters** (for example, 1.62), not feet or centimeters.
-
----
-
-## Full Code and Output
-
-A single view of all three programs with their outputs:
-
-![Code and output overview](images/code_and_output_overview.png)
-
----
-
-## How to Run
-
-1. Install Python 3 and clone or download this repository.
-2. Open a terminal in the project folder.
-3. Run any script:
-
-```bash
-python guessing_game.py
-python multiplication_table.py
-python bmi_calculator.py
-```
-
-To work with the notebook version, open `notebook/While_loop__For_loop_and_Function.ipynb` in Jupyter Notebook or JupyterLab.
-
+> 
 ## Repository Structure
 
 ```
@@ -165,3 +141,7 @@ python-assignment-3/
 ## Author
 
 **Yallappagari Srihari**
+
+**Aspiring Data Analyst**
+
+**Python | SQL | Excel | Power BI**
